@@ -19,8 +19,9 @@ A **fun and interactive Python GUI app** that generates random Powerball numbers
 
 ## 🖼️ Screenshot
 
----<img width="418" height="347" alt="Screenshot" src="https://github.com/user-attachments/assets/bcf18a23-d71f-4146-a27f-c52448f7d0c3" />
+<img width="418" height="347" alt="Screenshot" src="https://github.com/user-attachments/assets/bcf18a23-d71f-4146-a27f-c52448f7d0c3" />
 
+---
 
 ## 🚀 Installation
 
